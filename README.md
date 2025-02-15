@@ -4,7 +4,7 @@ This game is a graphics demo using the 2D functionalities of the engine from the
 
 It was also our competition entry for HackHarvard 2024 and we ended up winning a small prize from MATLAB!
 
-![ss_1](nexus/nexus_1.png){:height="50%" width="50%"}
+![ss_1](nexus/nexus_1.png)
 
 Some notable features that I implemented in this game was:
 
